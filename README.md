@@ -1,5 +1,5 @@
 # iPRSIM_2025
-iPRSIM Abroad Research Project : Sustainability in German Media &amp; Public Perception
+iPRSIM Abroad Research Project Summer 2025 : Sustainability in German Media &amp; Public Perception
 
 This project explores how sustainability is framed in German-language media and how that framing compares to public perceptions captured through in-person surveys at the University of Freiburg.
 
@@ -7,7 +7,7 @@ This project explores how sustainability is framed in German-language media and 
 
     Analyze terminology and framing of sustainability in the 2023 Leipzig News Corpus
 
-    Compare findings to Conceptual Association Maps (CAMs) derived from Freiburg student interviews
+    Compare findings to Conceptual Association Maps (CAMs) derived from German layperson
 
 🧪 Methods
 
