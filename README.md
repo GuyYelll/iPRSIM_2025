@@ -6,9 +6,10 @@ this framing to public perceptions captured via Conceptual Association Maps (CAM
 
 🔍 Research Focus
 
-    Analyze terminology and framing of sustainability in the 2023 Leipzig News Corpus using Natrual 
-    Language Processing (NLP) method and clustering by the Leiden Algorithm to form co-occurrences.
-    Compare findings to Conceptual Association Maps (CAMs) derived from German layperson
+    Using Natural Language Processing (NLP), this study will analyze the 2023 Leipzig News Corpus to understand 
+    how the various prinicples of sustainability is framed in German media. The Leiden Algorithm will be employed to cluster term co-occurrences, 
+    identifying the dominant terminology and thematic structures in the text. Then  Compare findings to Conceptual Association Maps 
+    (CAMs) derived from German layperson
 
 🧪 Methods
 
@@ -16,6 +17,8 @@ this framing to public perceptions captured via Conceptual Association Maps (CAM
 
     Keyword and phrase extraction
 
+    Leiden Algorithm used to identify clusters of term co-occurrences, highlighting dominant terminology
+    
     Semantic network analysis using textnets and spaCy
 
     Contextual embeddings (BERT/SBERT) for deeper semantic insights
