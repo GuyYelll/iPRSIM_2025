@@ -25,7 +25,7 @@ This project explores how sustainability is framed in German-language media and 
 
     Leipzig Corpora Collection: Structured German news articles
 
-    Survey & interview CAMs from University of Freiburg participants
+    CAMs of German laypersons collected from University of Freiburg Psychology dept. 
 
 📅 Timeline
 Project phases include data preprocessing, semantic analysis, CAM comparison, and final reporting — planned for completion within the iPRSIM research program period.
