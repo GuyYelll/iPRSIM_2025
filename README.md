@@ -5,8 +5,8 @@ This project explores how sustainability is framed in German-language media and 
 
 🔍 Research Focus
 
-    Analyze terminology and framing of sustainability in the 2023 Leipzig News Corpus
-
+    Analyze terminology and framing of sustainability in the 2023 Leipzig News Corpus using Natrual 
+    Language Processing (NLP) method and clustering by the Leiden Algorithm to form co-occurrences.
     Compare findings to Conceptual Association Maps (CAMs) derived from German layperson
 
 🧪 Methods
